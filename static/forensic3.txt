@@ -1,6 +1,8 @@
-Find the UID of Vector
+kevin and stuart have decided to start a new group called apple
+Find out the identity of the third member in this group.
 
 ANSWER: <Type answer here>
+
 
 Note: There must be a single space between the colon and the beginning of your answer. There may be no spaces in your answer.  If your answer requires spaces, please use the underscore "_" in place of the space.  Do not include the carets (< >) in your answer.
 

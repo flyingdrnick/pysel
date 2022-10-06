@@ -137,6 +137,14 @@ cd ~
 
 git clone https://github.com/flyingdrnick/pysel
 
+if got clone doesn't work, require apt install.
+sudo -i
+apt-get update
+apt install git
+git clone https://github.com/lovebarnowls/pysel.git
+continue with below instructions
+
+
 cd pysel
 
 sudo chmod a+x *.sh

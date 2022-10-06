@@ -1,0 +1,14 @@
+Forensic Questions 5 to 8 are ADDITIONAL practice questions.
+They DO NOT count towards the scoring, but are meant for teams that have finished their forensics questions early to get extra practice.
+
+They will be presented in a similar format as the other forensic questions, but the answer to the forensic question can only be found in the file forensic9.txt.
+
+List the most recent version of Python used in /usr/local/lib
+
+
+ANSWER: <Type answer here>
+
+
+Note: There must be a single space between the colon and the beginning of your answer. There may be no spaces in your answer.  If your answer requires spaces, please use the underscore "_" in place of the space.  Do not include the carets (< >) in your answer.
+
+REMINDER: saving over this document WILL NOT change your practice image score.

@@ -1,0 +1,7 @@
+The following code was found on Vector's table. What does the code say?
+110 111 111 100 0100 001 1010 101 1000 010 0 01 101 00 10 110 1 0000 00 000 1010 111 100 0
+
+ANSWER: <Type answer here>
+
+
+Note: There must be a single space between the colon and the beginning of your answer. There may be no spaces in your answer.  If your answer requires spaces, please use the underscore "_" in place of the space.  Do not include the carets (< >) in your answer.

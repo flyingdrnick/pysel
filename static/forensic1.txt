@@ -1,10 +1,6 @@
-The password was encrypted using a basic XOR cipher. The encrypted output from the XOR cipher is "ALIENS".
-
-The cipher key:
-
-100100001100100000101000001000000110100011100
-
-What is the password?
+Gru uses an MD5 hash of a keyword as his password.
+Unfortunately, he has forgotten his keyword, but his back up password notebook shows the string 'ZHJuZWZhcmlv', with base64 written next to it.
+Give Gru his password (MD5 hash)
 
 ANSWER: <Type answer here>
 

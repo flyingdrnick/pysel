@@ -1,0 +1,50 @@
+Answers to additional forensic practice questions (Forensic questions 5-8)
+
+
+Forensic 5
+
+
+URL listed in pipfile
+
+
+Ans: https://pypi.org/simple
+
+
+
+
+
+
+
+Forensic 6
+
+State the number of blocks used by the file requirements.txt
+
+Ans: 8
+
+
+
+
+
+
+
+Forensic 7
+
+List the most recent version of Python used in /usr/local/lib
+
+Ans: 3.8
+
+
+
+
+
+
+Forensic 8
+Decode 3VGbsR2buVWevV3cvxmdlRGdol2c
+
+
+
+Ans: welldoneyousolvedthis
+
+
+Solution
+Reverse, decode base64, reverse
